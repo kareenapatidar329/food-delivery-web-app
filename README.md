@@ -2,6 +2,8 @@
 
 This is a full-stack food delivery web application where users can browse food items, register/login, and place orders.
 
+live link of frontend : 
+
 ## Features
 - User Authentication (Login/Signup)
 - Food Listing
