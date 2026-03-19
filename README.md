@@ -17,4 +17,4 @@ This is a full-stack food delivery web application where users can browse food i
 The project demonstrates how frontend and backend interact using APIs. It focuses on user experience, dynamic content rendering, and basic e-commerce functionality.
 
 ## Author
-Modified and maintained by: kareena patidar
+Modified and maintained by: Kareena Patidar
