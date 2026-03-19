@@ -2,7 +2,7 @@
 
 This is a full-stack food delivery web application where users can browse food items, register/login, and place orders.
 
-live link of frontend : 
+live link of frontend : https://food-delivery-web-app-silk.vercel.app
 
 ## Features
 - User Authentication (Login/Signup)
